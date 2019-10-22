@@ -14,7 +14,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
 
-[My Jack Design STL](https://github.com/barkadosh1/IDD-Fa19_Lab5/blob/master/JackMan.stl)
+[My TunesBot Code](https://github.com/barkadosh1/IDD-Fa19-Lab6/blob/master/chatServer.js)
 
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
