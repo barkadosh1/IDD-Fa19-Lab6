@@ -22,5 +22,11 @@ With my chatbot, the initial question is whether the user wants to relax, workou
 
 [My TunesBot Code](https://github.com/barkadosh1/IDD-Fa19-Lab6/blob/master/chatServer.js)
 
+[My TunesBot Video 1](https://youtu.be/5qNZmdcQAL0)
+
+[My TunesBot Video 2](https://youtu.be/IRlrZDwIjn4)
+
+[My TunesBot Video 3](https://youtu.be/76BYzRgd6VA)
+
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
